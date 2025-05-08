@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"accepted":["redijek976@civikli.com"],"rejected":[],"envelopeTime":10282,"messageTime":6,"messageSize":563,"response":"250 OK id=1pKBqo-0059Ee-8S","envelope":{"from":"esign@esignaadhaar.com","to":["redijek976@civikli.com"]},"messageId":"<197a913a-8478-9480-7159-61daede6f568@esignaadhaar.com>"}
+

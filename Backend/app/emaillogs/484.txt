@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"accepted":["gexefa4049@themesw.com"],"rejected":[],"envelopeTime":5477,"messageTime":219,"messageSize":556,"response":"250 OK id=1pFwlR-00EVRa-5X","envelope":{"from":"esign@esignaadhaar.com","to":["gexefa4049@themesw.com"]},"messageId":"<a38581bd-c03b-39ca-ab4e-ad3d65f2b2cf@esignaadhaar.com>"}
+

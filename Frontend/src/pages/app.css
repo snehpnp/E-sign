@@ -1,0 +1,39 @@
+
+@media screen and (max-width: 768px) {
+    .restpassword {
+        margin-top: 100px !important;
+    }
+    .restpassword .form-div{
+        margin-top: 45px;
+    }
+  }
+.green-btn
+{
+    padding: 15px 25px;
+border-radius: 5px;
+background: rgb(12, 199, 48);
+border: 0px none;
+color: rgb(255, 255, 255);
+}
+
+@media only screen and (max-width: 768px) {
+    .sendOTP{
+margin-top:20px;
+    }
+  }
+  @media only screen and (max-width: 480px) {
+    button#simple-tab-0 ,button#simple-tab-1 , button#simple-tab-2 , button#simple-tab-3 {
+  font-size: 11px;
+  padding: 8px;
+    }
+    .form-heading {
+       
+        padding: 10px 20px;
+        font-size: 22px;
+        font-weight: 500;
+    }
+  }
+  button#simple-tab-1 {
+    display: flex !important;
+    align-items: center;
+}

@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"client_id":"pan_ILVJYptOYyOAHggjurnj","pan_number":"GSEPK5252F","full_name":"failed","category":"failed","sign_type":"pan_verify","parent_admin_id":"249","user_id":493}
+

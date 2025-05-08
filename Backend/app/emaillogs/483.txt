@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"accepted":["gannu6350www@gmail.com"],"rejected":[],"envelopeTime":10159,"messageTime":7,"messageSize":563,"response":"250 OK id=1pFwhV-00EUex-QN","envelope":{"from":"esign@esignaadhaar.com","to":["gannu6350www@gmail.com"]},"messageId":"<1297ac0e-2a84-9138-5f32-782002aab94c@esignaadhaar.com>"}
+

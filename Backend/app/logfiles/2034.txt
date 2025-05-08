@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"sign_type":"aadhar_verify_with_otp","aadhaar_number":"335982381167","client_id":"aadhaar_v2_uPCcdqBdkxlHnMPVSMst","full_name":"Ankit Vishwakarma","dob":"1997-09-05","gender":"M","loc":"","dist":"Ujjain","state":"Madhya Pradesh","country":"India","zip":"456006","care_of":"S/O: Dinesh","reference_id":"116720230417164114739","parent_admin_id":249,"user_id":2034,"template_id":"14"}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"client_id":"pan_nJsDdqprMiPYtsvjcdwM","pan_number":"DYRPM2919D","full_name":"failed","category":"failed","sign_type":"pan_verify","parent_admin_id":249,"user_id":2034,"template_id":"14"}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"client_id":"pan_EqjXbqjtvxidaKbDLCtj","pan_number":"DYRPM2919C","full_name":"MOHD  AMEEN","category":"person","sign_type":"pan_verify","parent_admin_id":249,"user_id":2034,"template_id":"14"}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"parent_admin_id":249,"user_id":2034,"sign_type":"aadhaar_sign","template_id":"14"}
+

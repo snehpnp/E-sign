@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"accepted":["gexare9183@terkoer.com"],"rejected":[],"envelopeTime":404,"messageTime":11,"messageSize":547,"response":"250 OK id=1paDEO-00BUEd-0d","envelope":{"from":"esign@esignaadhaar.com","to":["gexare9183@terkoer.com"]},"messageId":"<297659d3-0322-efb2-59f0-d66d795a0828@esignaadhaar.com>"}
+

@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"accepted":["fsfsdfsdfsd@gmail.com"],"rejected":[],"envelopeTime":15221,"messageTime":4,"messageSize":550,"response":"250 OK id=1pJ7VX-00H27M-5Z","envelope":{"from":"esign@esignaadhaar.com","to":["fsfsdfsdfsd@gmail.com"]},"messageId":"<bdcb8ea7-0710-129a-19b0-7eeecfa45bd1@esignaadhaar.com>"}
+

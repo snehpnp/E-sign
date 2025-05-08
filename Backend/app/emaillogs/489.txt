@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"accepted":["ponejol7529@botsoko.com"],"rejected":[],"envelopeTime":10430,"messageTime":7,"messageSize":554,"response":"250 OK id=1pJpGb-004iyc-UZ","envelope":{"from":"esign@esignaadhaar.com","to":["ponejol7529@botsoko.com"]},"messageId":"<209cca30-c7d7-dc3c-094a-edb6c910e100@esignaadhaar.com>"}
+

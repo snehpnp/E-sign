@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"accepted":["kelosik578@wireps.com"],"rejected":[],"envelopeTime":21,"messageTime":5,"messageSize":545,"response":"250 OK id=1pZ3MZ-008vK9-2A","envelope":{"from":"esign@esignaadhaar.com","to":["kelosik578@wireps.com"]},"messageId":"<70dae0db-ba9d-2e6b-019d-975c7506a089@esignaadhaar.com>"}
+

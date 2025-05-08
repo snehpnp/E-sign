@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"accepted":["lijos90031@wireps.com"],"rejected":[],"envelopeTime":217,"messageTime":6,"messageSize":555,"response":"250 OK id=1pYQQg-00EdTx-30","envelope":{"from":"esign@esignaadhaar.com","to":["lijos90031@wireps.com"]},"messageId":"<aed1b477-8f28-1106-19ea-057bc5622264@esignaadhaar.com>"}
+

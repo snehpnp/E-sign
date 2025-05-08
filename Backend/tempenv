@@ -1,0 +1,5 @@
+SMTP_HOST=mail.esignaadhaar.com
+SMTP_USER=esign@esignaadhaar.com
+SMTP_PASSWORD=Esign@987456321
+SMTP_EMAIL=esign@esignaadhaar.com
+SMTP_PORT=465

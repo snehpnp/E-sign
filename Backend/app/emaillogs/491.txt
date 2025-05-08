@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"accepted":["refej47150@minterp.com"],"rejected":[],"envelopeTime":382,"messageTime":220,"messageSize":558,"response":"250 OK id=1pJtZh-005RYt-A3","envelope":{"from":"esign@esignaadhaar.com","to":["refej47150@minterp.com"]},"messageId":"<b6c6c8ab-a9c4-5132-ce12-8f1668634d08@esignaadhaar.com>"}
+

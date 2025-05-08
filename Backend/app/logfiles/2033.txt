@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"sign_type":"aadhar_verify_with_otp","aadhaar_number":"704494698407","client_id":"aadhaar_v2_wgkNEyUsdFHkzkwLILpD","full_name":"Chandan Patidar","dob":"1989-11-14","gender":"M","loc":"Akola","dist":"Akola","state":"Maharashtra","country":"India","zip":"444001","care_of":"Mukesh Patidar","reference_id":"840720230412141115688","parent_admin_id":249,"user_id":2033}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"client_id":"pan_jKgFdtknWGyiztwwlElf","pan_number":"BCGPP5143Q","full_name":"CHANDAN PATIDAR","category":"person","sign_type":"pan_verify","parent_admin_id":249,"user_id":2033}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"parent_admin_id":249,"user_id":2033,"sign_type":"aadhaar_sign","template_id":"14"}
+

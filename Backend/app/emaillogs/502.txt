@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"accepted":["tesajo6ddd659@terkoer.com"],"rejected":[],"envelopeTime":49,"messageTime":20,"messageSize":550,"response":"250 OK id=1paDLk-00BVVS-2R","envelope":{"from":"esign@esignaadhaar.com","to":["tesajo6ddd659@terkoer.com"]},"messageId":"<71c903bd-0e71-db60-f5de-10bf70db7354@esignaadhaar.com>"}
+

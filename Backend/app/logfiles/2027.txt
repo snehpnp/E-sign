@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"sign_type":"aadhar_verify_with_otp","aadhaar_number":"980032011288","client_id":"aadhaar_v2_YIbBrweUzvydlJgElzEz","full_name":"Ganpat Kumar Koli","dob":"1998-05-15","gender":"M","loc":"new dadabadi panchmukhi road","dist":"Bhilwara","state":"Rajasthan","country":"India","zip":"311001","care_of":"S/O Durga Lal Koli","reference_id":"128820230414164044508","parent_admin_id":249,"user_id":2027,"template_id":"14"}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"client_id":"pan_WvARYiHirlwfPxmzcOrk","pan_number":"DYRPM2919C","full_name":"MOHD  AMEEN","category":"person","sign_type":"pan_verify","parent_admin_id":249,"user_id":2027,"template_id":"14"}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"parent_admin_id":249,"user_id":2027,"sign_type":"aadhaar_sign","template_id":"14"}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"parent_admin_id":249,"user_id":2027,"sign_type":"aadhaar_sign","template_id":"13"}
+

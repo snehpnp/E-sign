@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"client_id":"pan_zjWNjTHfinhApWlvwiVs","pan_number":"GSEPK5252E","full_name":"GANPAT  KOLI","category":"person","sign_type":"pan_verify","parent_admin_id":"465","user_id":481}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"client_id":"0","parent_admin_id":"465","user_id":481,"sign_type":"aadhaar_sign"}
+

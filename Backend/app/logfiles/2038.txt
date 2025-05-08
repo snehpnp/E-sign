@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"sign_type":"aadhar_verify_with_otp","aadhaar_number":"205477967325","client_id":"aadhaar_v2_vEdBkhajcIWodgXcGwoo","full_name":"Neha Sharma","dob":"1996-04-03","gender":"F","loc":"27 b shradha puri colony indore","dist":"Indore","state":"Madhya Pradesh","country":"India","zip":"452009","care_of":"D/O: Dinesh Sharma","reference_id":"732520230420173047456","parent_admin_id":249,"user_id":2038,"template_id":"14"}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"client_id":"pan_bFigILUzTpOfcgIXqAYo","pan_number":"DKWPM2463Q","full_name":"HIMANSHU  MOURYA","category":"person","sign_type":"pan_verify","parent_admin_id":249,"user_id":2038,"template_id":"14"}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"parent_admin_id":249,"user_id":2038,"sign_type":"aadhaar_sign","template_id":"14"}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"parent_admin_id":249,"user_id":2038,"sign_type":"aadhaar_sign","template_id":"10"}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"parent_admin_id":249,"user_id":2038,"sign_type":"aadhaar_sign","template_id":"12"}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"parent_admin_id":249,"user_id":2038,"sign_type":"aadhaar_sign","template_id":"19"}
+

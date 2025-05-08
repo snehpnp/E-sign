@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"sign_type":"aadhar_verify_with_otp","aadhaar_number":"466331170920","client_id":"aadhaar_v2_QWvchwVquKxzckolqkbg","full_name":"Himanshu Mourya","dob":"1991-05-17","gender":"M","loc":"near ganesh mandir","dist":"Indore","state":"Madhya Pradesh","country":"India","zip":"452001","care_of":"Roopkishor mourya","reference_id":"092020230123151756600","parent_admin_id":"249","user_id":491}
+
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"client_id":"esign_NUcqokPDPiawkbswmuOd","parent_admin_id":"249","user_id":491,"sign_type":"aadhaar_sign"}
+

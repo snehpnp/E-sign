@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"accepted":["kinaveh593@minterp.com"],"rejected":[],"envelopeTime":529,"messageTime":6,"messageSize":548,"response":"250 OK id=1pJ6Wt-00GsS7-A6","envelope":{"from":"esign@esignaadhaar.com","to":["kinaveh593@minterp.com"]},"messageId":"<e68af300-4d66-dc12-f339-8a57fa7d22d7@esignaadhaar.com>"}
+

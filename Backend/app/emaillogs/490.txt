@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"accepted":["giwiw87979@minterp.com"],"rejected":[],"envelopeTime":649,"messageTime":430,"messageSize":572,"response":"250 OK id=1pJtUh-005Qpi-Sb","envelope":{"from":"esign@esignaadhaar.com","to":["giwiw87979@minterp.com"]},"messageId":"<54207559-503e-13ea-3c89-0613ebe7ce92@esignaadhaar.com>"}
+

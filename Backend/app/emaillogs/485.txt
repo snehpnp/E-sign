@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"code":"EENVELOPE","response":"550-The mail server could not deliver mail to ss@gmsil.cvom.  The account or\n550-domain may not exist, they may be blacklisted, or missing the proper dns\n550 entries.","responseCode":550,"command":"RCPT TO","rejected":["ss@gmsil.cvom"],"rejectedErrors":[{"code":"EENVELOPE","response":"550-The mail server could not deliver mail to ss@gmsil.cvom.  The account or\n550-domain may not exist, they may be blacklisted, or missing the proper dns\n550 entries.","responseCode":550,"command":"RCPT TO","recipient":"ss@gmsil.cvom"}]}
+

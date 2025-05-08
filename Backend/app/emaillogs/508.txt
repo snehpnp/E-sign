@@ -1,0 +1,3 @@
+-------------------------------------------------------------------------------------------------------------------------------- 
+ - {"accepted":["kiroga222073@orgria.com"],"rejected":[],"envelopeTime":523,"messageTime":16,"messageSize":549,"response":"250 OK id=1paDe1-00BYuT-2A","envelope":{"from":"esign@esignaadhaar.com","to":["kiroga222073@orgria.com"]},"messageId":"<e71e3011-d56d-b214-1403-e57cc25e4d0c@esignaadhaar.com>"}
+
